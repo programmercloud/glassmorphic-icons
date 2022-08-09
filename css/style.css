@@ -16,8 +16,8 @@ body {
   background: linear-gradient(to right bottom, #da22ff, #9733ee);
   backdrop-filter: blur(20px);
   display: flex;
-  align-items: center;
   justify-content: center;
+  align-items: center;
 }
 
 .wrapper {
@@ -37,8 +37,8 @@ body {
   background: rgba(255, 255, 255, 0.25);
   box-shadow: 20px 20px 40px -6px rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(10.3px);
-  -webkit-backdrop-filter: blur(10.3px);
   font-size: 30px;
+  cursor: pointer;
 }
 
 .btn::after {
